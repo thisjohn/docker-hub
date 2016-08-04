@@ -1,0 +1,9 @@
+export VISUAL="vim"
+export EDITOR="vim"
+
+alias grep='egrep -n --color=auto --exclude-dir=.svn --exclude={tags,cscope.out}'
+alias ls='ls -GF --color=auto'
+alias ll='ls -lh'
+alias less='less -r'
+alias vi='vim -p'
+alias vim='vim -p'
